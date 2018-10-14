@@ -10,6 +10,17 @@
 ## REG_NO: 2018/HD05/1970U
 ## STD_NO: 1800738769
 
+## ANGOLE DANIEL:
+## REG_NO: 2018/HD05/1947U
+## STD_NO: 1800737067
+
+## TUSUBIRA DAVID:
+## REG_NO: 2018/HD05/1981U
+## 
+
+## ZABURI EUNICE:
+## REG_NO: 2017/HD05/1714U
+## STD_NO: 207014800
 from datetime import date
 
 """A stock control system"""
